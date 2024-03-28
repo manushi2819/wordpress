@@ -1,0 +1,275 @@
+0000.000 (0) Opened log file at time: Thu, 28 Mar 2024 03:03:02 +0000 on http://localhost/wordpress
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.2 WP: 6.4.3 PHP: 8.2.4 (apache2handler, Windows NT DESKTOP-CJ2TM4F 10.0 build 22621 (Windows 11) AMD64) MySQL: 10.4.28-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 86.4M | 88M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 103216.7 MB
+0000.007 (0) Tasks: Backup files: 1 (schedule: fortnightly) Backup DB:  (schedule: daily)
+0000.010 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.024 (0) Semaphore (f, wp_options) being initialised
+0000.030 (0) Requesting semaphore lock (f) (apparently not via scheduler)
+0000.035 (0) Set semaphore last lock (f) time to 2024-03-28 03:03:02
+0000.037 (0) Semaphore lock (f) complete
+0000.046 (0) Backup run: resumption=0, nonce=10297e83465f, file_nonce=10297e83465f begun at=1711594982 (0s ago), job type=backup
+0000.049 (0) Scheduling a resumption (1) after 600 seconds (1711595582) in case this run gets aborted
+0000.068 (0) Checking if we have a zip executable available
+0000.075 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.077 (0) Creation of backups of directories: beginning
+0000.085 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.059 (0) Total entities for the zip file: 2022 directories, 10323 files (0 skipped as non-modified), 203.9 MB
+0003.067 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 208764.7 KB, split: 409600 KB)
+0003.088 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0003.107 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0003.125 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0003.145 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0003.164 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0003.182 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0003.200 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0003.224 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0003.242 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0003.258 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0003.279 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0003.301 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0003.319 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0003.337 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0003.354 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0003.388 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0003.406 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0003.424 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0003.442 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0003.459 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0003.477 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0003.496 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0003.515 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0003.533 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0003.550 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0003.569 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0003.587 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0003.604 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0003.621 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0003.639 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0003.658 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0003.678 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0003.696 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0003.714 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0003.733 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0003.751 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0003.769 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0003.786 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0003.805 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0003.822 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0003.839 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0003.858 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0003.878 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0003.897 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0003.914 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0003.932 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0003.953 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0003.971 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 4800 files added (on-disk size: 0 KB)
+0003.988 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 4900 files added (on-disk size: 0 KB)
+0004.004 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 5000 files added (on-disk size: 0 KB)
+0004.026 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 5100 files added (on-disk size: 0 KB)
+0004.043 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 5200 files added (on-disk size: 0 KB)
+0004.064 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 5300 files added (on-disk size: 0 KB)
+0004.089 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 5400 files added (on-disk size: 0 KB)
+0004.109 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 5500 files added (on-disk size: 0 KB)
+0004.129 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 5600 files added (on-disk size: 0 KB)
+0004.148 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 5700 files added (on-disk size: 0 KB)
+0004.165 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 5800 files added (on-disk size: 0 KB)
+0004.183 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 5900 files added (on-disk size: 0 KB)
+0004.200 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 6000 files added (on-disk size: 0 KB)
+0004.220 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 6100 files added (on-disk size: 0 KB)
+0004.238 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 6200 files added (on-disk size: 0 KB)
+0004.255 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 6300 files added (on-disk size: 0 KB)
+0004.277 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 6400 files added (on-disk size: 0 KB)
+0004.298 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 6500 files added (on-disk size: 0 KB)
+0004.315 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 6600 files added (on-disk size: 0 KB)
+0004.331 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 6700 files added (on-disk size: 0 KB)
+0004.349 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 6800 files added (on-disk size: 0 KB)
+0004.369 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 6900 files added (on-disk size: 0 KB)
+0004.386 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 7000 files added (on-disk size: 0 KB)
+0004.403 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 7100 files added (on-disk size: 0 KB)
+0004.421 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 7200 files added (on-disk size: 0 KB)
+0004.440 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 7300 files added (on-disk size: 0 KB)
+0004.457 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 7400 files added (on-disk size: 0 KB)
+0004.474 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 7500 files added (on-disk size: 0 KB)
+0004.492 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 7600 files added (on-disk size: 0 KB)
+0004.511 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 7700 files added (on-disk size: 0 KB)
+0004.528 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 7800 files added (on-disk size: 0 KB)
+0004.545 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 7900 files added (on-disk size: 0 KB)
+0004.563 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 8000 files added (on-disk size: 0 KB)
+0004.583 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 8100 files added (on-disk size: 0 KB)
+0004.601 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 8200 files added (on-disk size: 0 KB)
+0004.619 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 8300 files added (on-disk size: 0 KB)
+0004.636 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 8400 files added (on-disk size: 0 KB)
+0004.659 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 8500 files added (on-disk size: 0 KB)
+0004.677 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 8600 files added (on-disk size: 0 KB)
+0004.694 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 8700 files added (on-disk size: 0 KB)
+0004.713 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 8800 files added (on-disk size: 0 KB)
+0004.738 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 8900 files added (on-disk size: 0 KB)
+0004.761 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 9000 files added (on-disk size: 0 KB)
+0004.780 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 9100 files added (on-disk size: 0 KB)
+0004.800 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 9200 files added (on-disk size: 0 KB)
+0004.818 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 9300 files added (on-disk size: 0 KB)
+0004.834 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 9400 files added (on-disk size: 0 KB)
+0004.857 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 9500 files added (on-disk size: 0 KB)
+0004.877 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 9600 files added (on-disk size: 0 KB)
+0004.895 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 9700 files added (on-disk size: 0 KB)
+0004.912 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 9800 files added (on-disk size: 0 KB)
+0004.930 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 9900 files added (on-disk size: 0 KB)
+0004.950 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 10000 files added (on-disk size: 0 KB)
+0004.969 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 10100 files added (on-disk size: 0 KB)
+0004.987 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 10200 files added (on-disk size: 0 KB)
+0005.005 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.tmp: 10300 files added (on-disk size: 0 KB)
+0280.417 (0) Creating zip file manifest (backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.list-temp.tmp)
+0280.444 (0) Successfully created zip file manifest (size: 891543)
+0280.895 (0) Created plugins zip (0) - 60248.8 KB in 280.8 s (214.6 KB/s) (sha1: 7fcd7224509e063ecdbcae01ad9abf688cdba5e5, sha256: c9b1e7082c3824e941b0b7ed2083f79ada172f9275b0de6905aecc5c75ec1ab2)
+0280.906 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0280.908 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-49cc515ec00cf0cf48884813da0dac8f)
+0284.627 (0) Google Drive: quota usage: used=107.2 MB, total=15360 MB, available=15252.8 MB
+0284.629 (0) Google Drive: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip: Attempting to upload to Google Drive (into folder id: 1Jj6JKYmp9HgAHoACengFA5DWvDpdE9_z)
+0286.905 (0) Googledrive chunked upload: 1.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 90.6 / 110)
+0287.727 (0) Googledrive chunked upload: 5.1 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 90.7 / 110)
+0288.543 (0) Googledrive chunked upload: 11.9 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 90.7 / 110)
+0289.664 (0) Googledrive chunked upload: 25.5 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 90.7 / 110)
+0292.515 (0) Googledrive chunked upload: 52.7 % uploaded (32505856)
+0294.926 (0) Googledrive chunked upload: 79.9 % uploaded (49283072 - increasing chunk size to 32768 KB - memory usage: 90.7 / 110)
+0297.627 (0) Googledrive chunked upload: 100 % uploaded (49283072)
+0297.634 (0) Google Drive: OK: Archive backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip uploaded in 13 seconds
+0297.635 (0) Recording as successfully uploaded: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip
+0297.644 (0) Deleting local file: backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip: OK
+0297.652 (0) Beginning creation of dump of themes (split every: 400 MB)
+0297.884 (0) Total entities for the zip file: 348 directories, 1023 files (0 skipped as non-modified), 30.7 MB
+0297.901 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 31444 KB, split: 409600 KB)
+0297.928 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0297.965 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0297.990 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0298.013 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0298.033 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0298.049 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0298.065 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0298.082 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0298.114 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0298.131 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0308.487 (0) Creating zip file manifest (backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip.list-temp.tmp)
+0308.492 (0) Successfully created zip file manifest (size: 84434)
+0308.638 (0) Created themes zip (0) - 16813 KB in 11 s (1531.2 KB/s) (sha1: d71321765135f89fffc260dbf702fad193f50fd4, sha256: 42da4070bcd85e8c6fd471b0f373bceaeedef5a351f5bb076343110df55ed680)
+0308.646 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0308.648 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-49cc515ec00cf0cf48884813da0dac8f)
+0309.432 (0) Google Drive: quota usage: used=166 MB, total=15360 MB, available=15194 MB
+0309.441 (0) Google Drive: backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip: Attempting to upload to Google Drive (into folder id: 1Jj6JKYmp9HgAHoACengFA5DWvDpdE9_z)
+0311.597 (0) Googledrive chunked upload: 6.1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 89.1 / 110)
+0312.414 (0) Googledrive chunked upload: 18.3 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 89.1 / 110)
+0313.242 (0) Googledrive chunked upload: 42.6 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 89.1 / 110)
+0314.483 (0) Googledrive chunked upload: 91.4 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 89.1 / 110)
+0316.742 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0316.750 (0) Google Drive: OK: Archive backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip uploaded in 7.3 seconds
+0316.751 (0) Recording as successfully uploaded: backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip
+0316.757 (0) Deleting local file: backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip: OK
+0316.763 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0316.764 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content/uploads
+0316.766 (0) finding files: 2018: adding to list (1)
+0316.768 (0) finding files: 2020: adding to list (2)
+0316.769 (0) finding files: 2021: adding to list (3)
+0316.771 (0) finding files: 2022: adding to list (4)
+0316.773 (0) finding files: 2024: adding to list (5)
+0316.774 (0) finding files: astra-sites: adding to list (6)
+0316.776 (0) finding files: elementor: adding to list (7)
+0316.777 (0) finding files: essential-addons-elementor: adding to list (8)
+0316.779 (0) finding files: simply-static: adding to list (9)
+0316.781 (0) finding files: wp-file-manager-pro: adding to list (10)
+0316.783 (0) finding files: wpforms: adding to list (11)
+0316.784 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0316.824 (0) Total entities for the zip file: 23 directories, 173 files (0 skipped as non-modified), 38.6 MB
+0316.827 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 39496.3 KB, split: 409600 KB)
+0316.844 (0) Zip: backup_2024-03-28-0303_WP_Enchant_10297e83465f-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0318.839 (0) Creating zip file manifest (backup_2024-03-28-0303_WP_Enchant_10297e83465f-uploads.zip.list-temp.tmp)
+0318.842 (0) Successfully created zip file manifest (size: 8774)
+0319.074 (0) Created uploads zip (0) - 31228.7 KB in 2.3 s (13671.5 KB/s) (sha1: 464a6a1a73e405c7e899701a505617132326b866, sha256: 7b84ec803b32bfdb797f5576961b7f1f8f12f0f9da4ee881ed94fb7856896cd7)
+0319.082 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0319.084 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-49cc515ec00cf0cf48884813da0dac8f)
+0319.945 (0) Google Drive: quota usage: used=182.4 MB, total=15360 MB, available=15177.6 MB
+0319.951 (0) Google Drive: backup_2024-03-28-0303_WP_Enchant_10297e83465f-uploads.zip: Attempting to upload to Google Drive (into folder id: 1Jj6JKYmp9HgAHoACengFA5DWvDpdE9_z)
+0321.784 (0) Googledrive chunked upload: 3.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 89 / 110)
+0323.090 (0) Googledrive chunked upload: 9.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 89 / 110)
+0323.961 (0) Googledrive chunked upload: 23 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 89 / 110)
+0325.170 (0) Googledrive chunked upload: 49.2 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 89 / 110)
+0327.687 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0327.696 (0) Google Drive: OK: Archive backup_2024-03-28-0303_WP_Enchant_10297e83465f-uploads.zip uploaded in 7.74 seconds
+0327.698 (0) Recording as successfully uploaded: backup_2024-03-28-0303_WP_Enchant_10297e83465f-uploads.zip
+0327.705 (0) Deleting local file: backup_2024-03-28-0303_WP_Enchant_10297e83465f-uploads.zip: OK
+0327.711 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0327.713 (0) Does not exist: C:\xampp\htdocs\wordpress/wp-content/mu-plugins
+0327.714 (0) There are no mu-plugins to backup. Will not raise an error.
+0327.716 (0) mu-plugins: create_zip returned an error
+0327.719 (0) Beginning backup of other directories found in the content directory (index: 0)
+0327.721 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0327.723 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content
+0327.724 (0) finding files: index.php: adding to list (1)
+0327.726 (0) finding files: plugins: skipping: this is the plugins directory
+0327.728 (0) finding files: themes: skipping: this is the themes directory
+0327.729 (0) finding files: updraft: skipping: this is the updraft directory
+0327.731 (0) finding files: upgrade: skipping: excluded by options
+0327.733 (0) finding files: uploads: skipping: this is the uploads directory
+0327.734 (0) finding files: wpvividbackups: skipping: excluded by options (glob)
+0327.736 (0) finding files: wpvivid_staging: adding to list (2)
+0327.737 (0) finding files: wpvivid_uploads: adding to list (3)
+0327.743 (0) Total entities for the zip file: 3 directories, 3 files (0 skipped as non-modified), 0 MB
+0327.745 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 0.1 KB, split: 409600 KB)
+0327.780 (0) Creating zip file manifest (backup_2024-03-28-0303_WP_Enchant_10297e83465f-others.zip.list-temp.tmp)
+0327.783 (0) Successfully created zip file manifest (size: 111)
+0327.792 (0) Created others zip (0) - 0.8 KB in 0.1 s (15.7 KB/s) (sha1: d1689ef13708e93de4937505f6d2d32fb7e86a44, sha256: cbf1da648dacd48925386f3e88bdcc60e96d0c0d9c72ac734beb9c26061166e1)
+0327.798 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0327.800 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-49cc515ec00cf0cf48884813da0dac8f)
+0328.812 (0) Google Drive: quota usage: used=212.9 MB, total=15360 MB, available=15147.1 MB
+0328.820 (0) Google Drive: backup_2024-03-28-0303_WP_Enchant_10297e83465f-others.zip: Attempting to upload to Google Drive (into folder id: 1Jj6JKYmp9HgAHoACengFA5DWvDpdE9_z)
+0332.052 (0) Googledrive chunked upload: 100 % uploaded
+0332.058 (0) Google Drive: OK: Archive backup_2024-03-28-0303_WP_Enchant_10297e83465f-others.zip uploaded in 3.23 seconds
+0332.060 (0) Recording as successfully uploaded: backup_2024-03-28-0303_WP_Enchant_10297e83465f-others.zip
+0332.064 (0) Deleting local file: backup_2024-03-28-0303_WP_Enchant_10297e83465f-others.zip: OK
+0332.073 (0) Saving backup status to database (elements: 8)
+0332.077 (0) No database backup (wp) - not part of this run
+0332.080 (0) backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip: plugins: This file has already been successfully uploaded
+0332.082 (0) backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip: themes: This file has already been successfully uploaded
+0332.083 (0) backup_2024-03-28-0303_WP_Enchant_10297e83465f-uploads.zip: uploads: This file has already been successfully uploaded
+0332.085 (0) backup_2024-03-28-0303_WP_Enchant_10297e83465f-others.zip: others: This file has already been successfully uploaded
+0332.086 (0) Saving backup history. Total backup size: 105.8 MB
+0332.090 (0) Resume backup (10297e83465f, 0): finish run
+0332.093 (0) There were no more files that needed uploading
+0332.096 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0332.098 (0) Number of backup sets in history: 4; groups (db): 1
+0332.099 (0) Examining (for databases) backup set with group_id=0, nonce=34cdb86cd0a5, datestamp=1711595042 (Mar 28 2024 03:04:02)
+0332.101 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0332.102 (0) Examining (for databases) backup set with group_id=0, nonce=10297e83465f, datestamp=1711594982 (Mar 28 2024 03:03:02)
+0332.102 (0) Examining (for databases) backup set with group_id=0, nonce=ce7629adfa84, datestamp=1711534991 (Mar 27 2024 10:23:11)
+0332.102 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0332.104 (0) Examining (for databases) backup set with group_id=0, nonce=5c1d6c16d8a4, datestamp=1711533691 (Mar 27 2024 10:01:31)
+0332.104 (0) Number of backup sets in history: 4; groups (files): 1
+0332.105 (0) Examining (for files) backup set with nonce=34cdb86cd0a5, datestamp=1711595042 (Mar 28 2024 03:04:02)
+0332.105 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0332.107 (0) Examining (for files) backup set with nonce=10297e83465f, datestamp=1711594982 (Mar 28 2024 03:03:02)
+0332.107 (0) This backup set is the backup set just made, so will not be deleted.
+0332.108 (0) This backup set is the backup set just made, so will not be deleted.
+0332.108 (0) This backup set is the backup set just made, so will not be deleted.
+0332.109 (0) This backup set is the backup set just made, so will not be deleted.
+0332.109 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0332.110 (0) Examining (for files) backup set with nonce=ce7629adfa84, datestamp=1711534991 (Mar 27 2024 10:23:11)
+0332.110 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0332.112 (0) Examining (for files) backup set with nonce=5c1d6c16d8a4, datestamp=1711533691 (Mar 27 2024 10:01:31)
+0332.112 (0) plugins: over retain limit (2); will delete this file entity
+0332.112 (0) themes: over retain limit (2); will delete this file entity
+0332.112 (0) uploads: over retain limit (2); will delete this file entity
+0332.112 (0) others: over retain limit (2); will delete this file entity
+0334.523 (0) Google Drive: backup_2024-03-27-1001_WP_Enchant_5c1d6c16d8a4-plugins.zip: Deletion failed: file was not found
+0334.525 (0) Google Drive: backup_2024-03-27-1001_WP_Enchant_5c1d6c16d8a4-themes.zip: Deletion failed: file was not found
+0334.527 (0) Google Drive: backup_2024-03-27-1001_WP_Enchant_5c1d6c16d8a4-uploads.zip: Deletion failed: file was not found
+0334.529 (0) Google Drive: backup_2024-03-27-1001_WP_Enchant_5c1d6c16d8a4-others.zip: Deletion failed: file was not found
+0334.535 (0) This backup set is now empty; will remove from history
+0334.537 (0) Deleting log file (log.5c1d6c16d8a4.txt)
+0334.539 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0334.545 (0) Decremented the semaphore (f) by 1
+0334.549 (0) Semaphore (f) unlocked
+0334.551 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0334.558 (0) Deleting zip manifest (backup_2024-03-28-0303_WP_Enchant_10297e83465f-plugins.zip.list.tmp)
+0334.560 (0) Deleting zip manifest (backup_2024-03-28-0303_WP_Enchant_10297e83465f-themes.zip.list.tmp)
+0334.562 (0) Deleting zip manifest (backup_2024-03-28-0303_WP_Enchant_10297e83465f-uploads.zip.list.tmp)
+0334.565 (0) Deleting zip manifest (backup_2024-03-28-0303_WP_Enchant_10297e83465f-others.zip.list.tmp)
+0334.568 (0) No email will/can be sent - the user has not configured an email address.
+0334.570 (0) The backup succeeded and is now complete
